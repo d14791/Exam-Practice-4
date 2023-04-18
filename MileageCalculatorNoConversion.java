@@ -1,4 +1,12 @@
-package ch14;
+/**
+ * File: csci1302/ch16/MileageCalculator.java
+ * Package: ch16
+ * @author Christopher Williams
+ * Created on: Apr 12, 2017
+ * Last Modified: Apr 15, 2019
+ * Description:  
+ */
+package ch16;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -161,3 +169,4 @@ public class MileageCalculatorNoConversion extends Application {
 	}
 
 }
+
